@@ -1,4 +1,4 @@
-Initial commit - no coding started yet
+Initial commit - no coding started yet - Eric T
 
 # Module Project: Async Redux - React Redux App
 
